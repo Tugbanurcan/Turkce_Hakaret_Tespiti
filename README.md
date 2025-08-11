@@ -18,6 +18,8 @@ Bu proje, Türkçe metinlerde **çok-etiketli sınıflandırma** yapmak için Hu
   - Metin girişi üzerinden test
   - Her etiket için olasılık (%) ve eşik üstünde olup olmadığını gösterme
   - Hazır **best_model** klasöründen yükleme
+ 
+- **Veri Seti linki : https://www.kaggle.com/datasets/smailsariteke/trke-tweetlerin-6-snfa-gre-etiketlenmesi
 
 ---
 
